@@ -12,7 +12,11 @@ I turn data into decisions.
 - Validate ideas through experimentation and data
 - Build pipelines that support repeatable insights
 
+## What You’ll Find Here
+Projects that turn messy data into decisions — dashboards, A/B tests, and data pipelines.
+
 ## Tech
 Python | SQL | Power BI | Tableau | Snowflake | AWS | dbt | Spark
 
-🔗 LinkedIn | 📧 Email
+🔗 [LinkedIn](https://www.linkedin.com/in/sahithi-vangala/)
+📧 sahithivangala.1808@gmail.com
