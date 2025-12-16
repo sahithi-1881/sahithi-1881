@@ -1,18 +1,23 @@
-# Hi, I'm Sahithi Vangala 👋
-🎓 Master’s in Data Science @ Indiana University Bloomington  
-💼 Data / Business / Product Analyst / Data Engineer 
-📍 Based in USA | Actively Seeking Full-time Opportunities 
+# Hi, I’m Sahithi Vangala 👋
 
-## 💡 About Me
-I’m passionate about data storytelling, analytics, and building scalable data solutions that help organizations make better decisions.  
-I love working with SQL, Python, and visualization tools like Tableau and Power BI.
+I turn data into decisions.
 
-## 🧠 Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib), SQL  
-- **Visualization:** Tableau, Power BI, Looker Studio  
-- **Databases & Cloud:** MySQL, Snowflake, BigQuery, AWS, GCP  
-- **Data Pipelines:** dbt, Apache Spark, Kafka 
+🎓 MS in Data Science — Indiana University Bloomington  
+📊 Analytics | Experimentation | Data Engineering  
+📍 USA | Open to full-time roles
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sahithi-vangala/)
-- [Email](mailto:sahithivangala.1808@gmail.com)
+## How I Approach Data
+- Start with the business question, not the dataset
+- Validate assumptions before drawing conclusions
+- Prefer simple, explainable insights over complex models
+- Build dashboards that answer “so what?”
+
+## Tools I Use
+Python • SQL • Power BI • Tableau • Snowflake • dbt • Spark • Kafka
+
+## What You’ll Find Here
+Projects that turn messy data into decisions — dashboards, A/B tests, and data pipelines.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sahithi-vangala/)
+📧 sahithivangala.1808@gmail.com
+
