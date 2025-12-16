@@ -2,7 +2,7 @@
 
 I turn data into decisions.
 
-🎓 MS in Data Science — Indiana University Bloomington  
+🎓 MS in Data Science - Indiana University Bloomington  
 📊 Analytics | Experimentation | Data Engineering  
 📍 USA | Open to full-time roles
 
@@ -16,7 +16,7 @@ I turn data into decisions.
 Python • SQL • Power BI • Tableau • Snowflake • dbt • Spark • Kafka
 
 ## What You’ll Find Here
-Projects that turn messy data into decisions — dashboards, A/B tests, and data pipelines.
+Projects that turn messy data into decisions - dashboards, A/B tests, and data pipelines.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sahithi-vangala/)
 📧 sahithivangala.1808@gmail.com
